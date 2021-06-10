@@ -1,0 +1,8 @@
+.finish-container {
+  display: flex;
+  justify-content: center;
+  /* border: 2px solid red; */
+}
+.finish-container > p {
+  text-transform: capitalize;
+}

@@ -1,0 +1,71 @@
+
+          {/* <div className="optiona">
+            <input
+              type="radio"
+              id="1"
+              name="option"
+              value={item.a}
+              onChange={optionSelected}
+            />
+            <label>{item.a}</label>
+            {item.correct === item.a && correct ? right : ""}
+            {selectedOption !== item.correct &&
+            item.a === selectedOption &&
+            correct
+              ? wrong
+              : ""}
+          </div>
+          <br />
+
+          <div className="optionb">
+            <input
+              type="radio"
+              id="2"
+              name="option"
+              value={item.b}
+              onChange={optionSelected}
+            />
+            <label>{item.b}</label>
+            {item.correct === item.b && correct ? right : ""}
+            {selectedOption !== item.correct &&
+            item.b === selectedOption &&
+            correct
+              ? wrong
+              : ""}
+          </div>
+          <br />
+
+          <div className="optionc">
+            <input
+              type="radio"
+              id="3"
+              name="option"
+              value={item.c}
+              onChange={optionSelected}
+            />
+            <label>{item.c}</label>
+            {item.correct === item.c && correct ? right : ""}
+            {selectedOption !== item.correct &&
+            item.c === selectedOption &&
+            correct
+              ? wrong
+              : ""}
+          </div>
+          <br />
+
+          <div className="optiond">
+            <input
+              type="radio"
+              id="4"
+              name="option"
+              value={item.d}
+              onChange={optionSelected}
+            />
+            <label>{item.d}</label>
+            {item.correct === item.d && correct ? right : ""}
+            {selectedOption !== item.correct &&
+            item.d === selectedOption &&
+            correct
+              ? wrong
+              : ""}
+          </div> */}

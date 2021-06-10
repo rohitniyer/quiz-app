@@ -1,0 +1,13 @@
+.card {
+  display: block;
+  /* border: 2px solid red; */
+  margin: 20px 10px;
+  width: 100%;
+}
+.questionno {
+  font-size: x-large;
+  font-weight: 500;
+  /* padding: 0 20px; */
+  /* border: 2px solid black; */
+  width: max-content;
+}

@@ -1,0 +1,21 @@
+.option-container {
+  /* border: 2px solid rgb(112, 12, 109); */
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.option {
+  /* border: 2px solid green; */
+  margin-top: 20px;
+  padding: 10px 0;
+}
+
+.option > input {
+  padding: 120px 0;
+}
+
+.label {
+  padding-left: 10px;
+}

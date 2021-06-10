@@ -1,0 +1,13 @@
+.header {
+  width: 100vw;
+  height: 5rem;
+  /* border-bottom: 2px solid red; */
+  box-shadow: 0 2px 5px white;
+  text-align: center;
+  color: white;
+  margin-top: -21px;
+  padding-top: 20px;
+}
+h1 {
+  /* border: 2px solid orange; */
+}
